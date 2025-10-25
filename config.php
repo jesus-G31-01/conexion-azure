@@ -4,10 +4,10 @@
 // ======================================================
 
 // 🔧 Datos de conexión — Reemplaza estos valores con los de tu base de datos de Azure
-$host = "tu-servidor.mysql.database.azure.com";  // Ejemplo: mi-servidor.mysql.database.azure.com
-$usuario = "tu_usuario@tu-servidor";             // Ejemplo: admin@mi-servidor
-$contraseña = "TuContraseñaSegura123!";
-$baseDatos = "nombre_de_tu_base";
+$host = "jgomezmysql.mysql.database.azure.com";  // Ejemplo: mi-servidor.mysql.database.azure.com
+$usuario = "jgomez139";             // Ejemplo: admin@mi-servidor
+$contraseña = "310548JesusM";
+$baseDatos = "jgomezmysql";
 
 // ======================================================
 // INICIALIZAR CONEXIÓN CON SSL (requerido por Azure)
